@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import Hello from './components/hello';
+
+// const root = <div>
+//   <React.StrictMode>
+//     <Hello firstName="Laura" lastName="Hardy" />
+//     <Hello firstName="Romain" lastName="Paillard" />
+//   </React.StrictMode>
+// </div>;
 
 ReactDOM.render(
   <React.StrictMode>
